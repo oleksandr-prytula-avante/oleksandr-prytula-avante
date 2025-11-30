@@ -1,8 +1,6 @@
 # Hi, all! 👋
 
-## 🧩 Short summary:
-
-### SUMMARY
+## 🧩 SUMMARY:
 
 ``` ts
 const SUMMARY = {
