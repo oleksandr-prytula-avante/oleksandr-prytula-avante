@@ -141,8 +141,8 @@ Master's Degree — Computer Software Engineering
 <span style="color:#aaa">2022 — 2024</span>
 
 📙 **Kryvyi Rih National University**  
-Bachelor's Degree — Computer Software Engineering  
-<span style="color:#aaa">2012 — 2016</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bachelor's Degree — Computer Software Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">2012 — 2016</span>
 
 </div>
 
