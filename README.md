@@ -156,15 +156,15 @@ Bachelor's Degree — Computer Software Engineering
 
 <p align="left">
 
-<a href="https://github.com/OleksandrPrytula">
+<a href="https://github.com/oleksandr-prytula-avante">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/alexprytula">
+<a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/AlexPrytula">
+<a href="https://leetcode.com/u/oleksandr-prytula-avante">
   <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
@@ -172,7 +172,7 @@ Bachelor's Degree — Computer Software Engineering
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/alexprytula">
+<a href="https://www.instagram.com/oleksandr_prytula_avante">
   <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
