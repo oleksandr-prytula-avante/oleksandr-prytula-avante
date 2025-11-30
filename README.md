@@ -77,9 +77,9 @@ technical skills. Recently, I have obtained advanced certifications and
 completed intensive bootcamps specializing in **Machine Learning and
 Computer Vision**.
 
-Also I actively integrate **AI-powered tools** --- such as automated
+Also I actively integrate **AI-powered tools** - such as automated
 code generation, intelligent testing frameworks, and performance
-optimization utilities --- into my development workflows to boost
+optimization utilities - into my development workflows to boost
 productivity, reduce manual effort, and improve application scalability.
 
 ------------------------------------------------------------------------
