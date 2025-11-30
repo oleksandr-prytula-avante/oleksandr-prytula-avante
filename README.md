@@ -4,7 +4,7 @@
 const SUMMARY = {
   name: "Oleksandr (Alex) Prytula",
   location: "Ukraine",
-  job: "WEB Developer · Software Engineer",
+  job: "WEB Developer / Software Engineer",
   company: "Omnora (fka SlidePresenter)",
   education: [
     "Master's degree — Software Engineering (State University of Economics and Technology, 2022–2024)",
