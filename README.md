@@ -3,7 +3,7 @@
 ``` ts
 const SUMMARY = {
   name: "Oleksandr (Alex) Prytula",
-  location: "Kryvyi Rih, Ukraine",
+  location: "Ukraine",
   job: "WEB Developer · Software Engineer",
   company: "Omnora (fka SlidePresenter)",
   education: [
