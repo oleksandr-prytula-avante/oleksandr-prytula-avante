@@ -1,4 +1,4 @@
-# Hi, all! 👋
+# Hi, all! I`m Oleksandr! 👋
 
 ``` ts
 const SUMMARY = {
@@ -27,7 +27,7 @@ const SUMMARY = {
 
 ---
 
-<p align="center"><strong>OR</strong></p>
+<p align="center"><strong>Or let’s get to know each other better…</strong></p>
 
 ---
 
