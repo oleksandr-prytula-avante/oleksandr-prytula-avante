@@ -1,7 +1,5 @@
 # Hi, all! 👋
 
-## 🧩 SUMMARY:
-
 ``` ts
 const SUMMARY = {
   name: "Oleksandr (Alex) Prytula",
