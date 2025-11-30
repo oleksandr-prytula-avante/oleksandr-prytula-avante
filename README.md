@@ -112,8 +112,6 @@ productivity, reduce manual effort, and improve application scalability.
 
 ------------------------------------------------------------------------
 
-## 💼 Working experience:
-
 ## 💼 Working experience
 
 ### 🚀 Professional Journey
