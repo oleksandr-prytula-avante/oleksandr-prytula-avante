@@ -153,57 +153,24 @@ productivity, reduce manual effort, and improve application scalability.
 <p align="left">
 
 <a href="https://github.com/oleksandr-prytula-avante">
-  <img height="48" width="48" src="https://img.icons8.com/fluency/48/github.png" />
+ <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
-  <img height="48" width="48" src="https://img.icons8.com/fluency/48/linkedin.png" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
-<svg
-    width="32"
-    height="32"
-    viewBox="0 0 64 64"
-    xmlns="http://www.w3.org/2000/svg"
-    style="vertical-align: middle"
-  >
-    <rect x="0" y="0" width="64" height="64" rx="14" ry="14" fill="#ffffff" />
-    <path
-      d="M28 8
-         C18 14, 12 24, 12 32
-         C12 40, 18 50, 28 56
-         C30 57, 33 56, 34 54
-         C35 52, 34 49, 32 48
-         C25 44, 20 38, 20 32
-         C20 26, 25 20, 32 16
-         C34 15, 35 12, 34 10
-         C33 8, 30 7, 28 8
-         Z"
-      fill="#FFA116"
-    />
-    <path
-      d="M38 20
-         C44 22, 48 26, 48 32
-         C48 38, 44 42, 38 44
-         C36 45, 35 47, 36 49
-         C37 51, 40 52, 42 51
-         C51 48, 56 40, 56 32
-         C56 24, 51 16, 42 13
-         C40 12, 37 13, 36 15
-         C35 17, 36 19, 38 20
-         Z"
-      fill="#000000"
-    />
-  </svg>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+
 </a>
 
 <a href="mailto:oleksandr.prytula.dev@gmail.com">
-  <img height="48" width="48" src="https://img.icons8.com/fluency/48/gmail.png" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/oleksandr_prytula_avante">
-  <img height="48" width="48" src="https://img.icons8.com/fluency/48/instagram-new.png" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 </p>
