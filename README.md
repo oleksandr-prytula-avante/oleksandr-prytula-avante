@@ -161,7 +161,8 @@ Bachelor's Degree — Computer Software Engineering
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
-<img height="48" width="48" src="data:image/svg+xml;utf8,
+  <img height="48" width="48" 
+       src="data:image/svg+xml;utf8,
 <svg xmlns='http://www.w3.org/2000/svg' width='256' height='256' viewBox='0 0 256 256'>
 <path fill='%23FFA116' d='M141.6 5.2c-5.6 2.8-8.8 8.8-8 15.2c.8 5.6 5.6 10.4 11.2 11.2c30.4 4.8 53.6 30.4 56 61.6c4 35.2-20.8 68-56 72.8C94 173.6 54.8 145.6 49.2 103.2c-2.4-17.6 0-34.4 8.8-49.6c3.2-5.6 2.4-12.8-2.4-17.6c-5.6-6.4-16-6.4-21.6 0C17.2 59.2 9.2 92 15.6 124c10.4 51.2 58.4 86.4 110.4 82.4c56-4 98.4-53.6 93.6-109.6C214.8 47.2 183.6 9.2 141.6 5.2z'/>
 <path fill='%23000' d='M173.6 149.6c-4-4.8-10.4-6.4-16-4l-41.6 20.8l-41.6-20.8c-6.4-3.2-14.4-.8-17.6 5.6c-3.2 6.4-.8 14.4 5.6 17.6l48 24c4 2.4 8.8 2.4 12.8 0l48-24c6.4-3.2 8.8-11.2 4.8-18z'/>
