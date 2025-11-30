@@ -157,23 +157,23 @@ Bachelor's Degree — Computer Software Engineering
 <p align="left">
 
 <a href="https://github.com/oleksandr-prytula-avante">
-  <img height="48" width="48" src="https://img.icons8.com/color/48/github.png" />
+  <img height="48" width="48" src="https://img.icons8.com/fluency/48/github.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
-  <img height="40" src="https://img.icons8.com/ios-filled/50/linkedin.png"/>
+  <img height="48" width="48" src="https://img.icons8.com/fluency/48/linkedin.png" />
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
-  <img height="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-leetcode-a-platform-for-prepare-coding-interview-logo-bold-tal-revivo.png"/>
+  <img height="48" width="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-leetcode-a-platform-for-prepare-coding-interview-logo-color-tal-revivo.png" />
 </a>
 
 <a href="mailto:oleksandr.prytula.dev@gmail.com">
-  <img height="40" src="https://img.icons8.com/ios-filled/50/gmail.png"/>
+  <img height="48" width="48" src="https://img.icons8.com/fluency/48/gmail.png" />
 </a>
 
 <a href="https://www.instagram.com/oleksandr_prytula_avante">
-  <img height="40" src="https://img.icons8.com/ios-filled/50/instagram-new.png"/>
+  <img height="48" width="48" src="https://img.icons8.com/fluency/48/instagram-new.png" />
 </a>
 
 </p>
