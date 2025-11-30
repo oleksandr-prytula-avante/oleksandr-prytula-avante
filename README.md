@@ -157,23 +157,23 @@ Bachelor's Degree — Computer Software Engineering
 <p align="left">
 
 <a href="https://github.com/oleksandr-prytula-avante">
-  <img src="https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white"/>
+  <img height="40" src="https://img.icons8.com/ios-filled/50/github.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img height="40" src="https://img.icons8.com/ios-filled/50/linkedin.png"/>
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
-  <img src="https://img.shields.io/badge/LeetCode-000?style=flat-square&logo=leetcode&logoColor=FFA116"/>
+  <img height="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/external-leetcode-a-platform-for-prepare-coding-interview-logo-bold-tal-revivo.png"/>
 </a>
 
 <a href="mailto:oleksandr.prytula.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img height="40" src="https://img.icons8.com/ios-filled/50/gmail.png"/>
 </a>
 
 <a href="https://www.instagram.com/oleksandr_prytula_avante">
-  <img src="https://img.shields.io/badge/Instagram-000?style=flat-square&logo=instagram&logoColor=E4405F"/>
+  <img height="40" src="https://img.icons8.com/ios-filled/50/instagram-new.png"/>
 </a>
 
 </p>
