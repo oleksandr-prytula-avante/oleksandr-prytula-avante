@@ -1,4 +1,4 @@
-# Hi, all! I`m Oleksandr! 👋
+# Hi, all! 👋
 
 ``` ts
 const SUMMARY = {
