@@ -145,12 +145,23 @@ productivity, reduce manual effort, and improve application scalability.
 
 ------------------------------------------------------------------------
 
-## 🎓 Education:
+## 🎓 Education
 
--   **State University of Economics and Technology** --- Master's degree
-    (2022--2024)\
--   **Kryvyi Rih National University** --- Bachelor's degree
-    (2012--2016)
+### 🎓 Academic Background
+
+<div align="left">
+
+📘 **State University of Economics and Technology**  
+Master's Degree — Computer Software Engineering  
+<span style="color:#aaa">2022 — 2024</span>
+
+---
+
+📙 **Kryvyi Rih National University**  
+Bachelor's Degree — Computer Software Engineering  
+<span style="color:#aaa">2012 — 2016</span>
+
+</div>
 
 ------------------------------------------------------------------------
 
