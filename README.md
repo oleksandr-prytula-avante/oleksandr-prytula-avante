@@ -154,4 +154,26 @@ Bachelor's Degree — Computer Software Engineering
 
 ## 🤝 Connect with me:
 
-GitHub \| LinkedIn \| LeetCode \| Gmail \| Instagram
+<p align="left">
+
+<a href="https://github.com/OleksandrPrytula">
+  <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/alexprytula">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/AlexPrytula">
+  <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+</a>
+
+<a href="mailto:oleksandr.prytula.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/alexprytula">
+  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+</p>
