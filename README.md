@@ -117,16 +117,16 @@ productivity, reduce manual effort, and improve application scalability.
 <div align="left">
 
 🔹 **Web Developer — Omnora (Product / Startup)**  
-<span style="color:#aaa">Apr 2020 — Present</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">Apr 2020 — Present</span>  
 
 🔹 **Web Developer / Technical Team Lead — DigitalSuits**  
-<span style="color:#aaa">Apr 2019 — Mar 2020</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">Apr 2019 — Mar 2020</span>  
 
 🔹 **WEB & Mobile Developer — Code & Care**  
-<span style="color:#aaa">Oct 2017 — Mar 2019</span>  
+&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">Oct 2017 — Mar 2019</span>  
 
 🔹 **WEB Developer — LANARS**  
-<span style="color:#aaa">Oct 2016 — Sep 2017</span>
+&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">Oct 2016 — Sep 2017</span>
 
 </div>
 
@@ -137,8 +137,8 @@ productivity, reduce manual effort, and improve application scalability.
 <div align="left">
 
 📘 **State University of Economics and Technology**  
-Master's Degree — Computer Software Engineering  
-<span style="color:#aaa">2022 — 2024</span>
+&nbsp;&nbsp;&nbsp;&nbsp; Master's Degree — Computer Software Engineering  
+&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">2022 — 2024</span>
 
 📙 **Kryvyi Rih National University**  
 &nbsp;&nbsp;&nbsp;&nbsp; Bachelor's Degree — Computer Software Engineering  
