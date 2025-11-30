@@ -112,9 +112,7 @@ productivity, reduce manual effort, and improve application scalability.
 
 ------------------------------------------------------------------------
 
-## 💼 Working experience
-
-### 🚀 Professional Journey
+## 💼 Professional Journey:
 
 <div align="left">
 
@@ -142,12 +140,9 @@ productivity, reduce manual effort, and improve application scalability.
 
 </div>
 
-
 ------------------------------------------------------------------------
 
-## 🎓 Education
-
-### 🎓 Academic Background
+## 🎓 Education:
 
 <div align="left">
 
