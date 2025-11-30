@@ -157,7 +157,7 @@ Bachelor's Degree — Computer Software Engineering
 <p align="left">
 
 <a href="https://github.com/oleksandr-prytula-avante">
-  <img height="40" src="https://img.icons8.com/ios-filled/50/github.png"/>
+  <img height="48" width="48" src="https://img.icons8.com/color/48/github.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
