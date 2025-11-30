@@ -165,7 +165,7 @@ Bachelor's Degree — Computer Software Engineering
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
-  <img height="48" width="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-leetcode-a-platform-for-prepare-coding-interview-logo-color-tal-revivo.png" />
+  <img height="48" width="48" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" />
 </a>
 
 <a href="mailto:oleksandr.prytula.dev@gmail.com">
