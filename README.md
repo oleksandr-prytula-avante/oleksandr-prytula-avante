@@ -156,7 +156,7 @@ productivity, reduce manual effort, and improve application scalability.
 </a>
 
 <a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
