@@ -161,11 +161,7 @@ productivity, reduce manual effort, and improve application scalability.
 </a>
 
 <a href="mailto:oleksandr.prytula.dev@gmail.com">
-  <img src="./gmail.png" />
-</a>
-
-<a href="https://www.instagram.com/oleksandr_prytula_avante">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="./gmail.png" width="24" height="24"/>
 </a>
 
 </p>
