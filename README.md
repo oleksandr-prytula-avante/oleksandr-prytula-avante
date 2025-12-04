@@ -152,15 +152,15 @@ productivity, reduce manual effort, and improve application scalability.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
-  <img src="./linkedin.svg" width="32" height="32"/>
+  <img src="./linkedin.svg" width="36" height="36"/>
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
-  <img src="./leetcode.svg" width="32" height="32"/>
+  <img src="./leetcode.svg" width="36" height="36"/>
 </a>
 
 <a href="mailto:oleksandr.prytula.dev@gmail.com">
-  <img src="./gmail.svg" width="32" height="32"/>
+  <img src="./gmail.svg" width="36" height="36"/>
 </a>
 
 </p>
