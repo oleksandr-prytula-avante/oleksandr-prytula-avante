@@ -151,21 +151,17 @@ productivity, reduce manual effort, and improve application scalability.
 
 <p align="left">
 
-<a href="https://github.com/oleksandr-prytula-avante">
- <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 <a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />
+  <img src="./linkedin.png" />
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <img src="./leetcode.png" />
 
 </a>
 
 <a href="mailto:oleksandr.prytula.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="./gmail.png" />
 </a>
 
 <a href="https://www.instagram.com/oleksandr_prytula_avante">
