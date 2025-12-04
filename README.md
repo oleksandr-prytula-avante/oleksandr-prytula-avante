@@ -152,15 +152,11 @@ productivity, reduce manual effort, and improve application scalability.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
-  <img src="./linkedin.png" width="32" height="32"//>
+  <img src="./linkedin.png" width="32" height="32"/>
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
-  <svg width="40" height="40" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-  <rect width="24" height="24" rx="4" fill="#0A66C2" />
-  <path d="M7 17V10H5V17H7ZM6 9C6.552 9 7 8.552 7 8C7 7.448 6.552 7 6 7C5.448 7 5 7.448 5 8C5 8.552 5.448 9 6 9Z" fill="white"/>
-  <path d="M10 17H12V13.5C12 12.672 12.672 12 13.5 12C14.328 12 15 12.672 15 13.5V17H17V13.2C17 11.435 15.765 10 14.1 10C13.088 10 12.26 10.472 11.8 11.2V10H10V17Z" fill="white"/>
-</svg>
+  <img src="./leetcode.svg" width="32" height="32"/>
 </a>
 
 <a href="mailto:oleksandr.prytula.dev@gmail.com">
