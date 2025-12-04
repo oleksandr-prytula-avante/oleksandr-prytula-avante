@@ -156,7 +156,7 @@ productivity, reduce manual effort, and improve application scalability.
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
-  <img src="./leetcode.png" width="32" height="32"//>
+  <img src="./svg" width="32" height="32"//>
 
 </a>
 
