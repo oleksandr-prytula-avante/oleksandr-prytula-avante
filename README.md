@@ -34,7 +34,7 @@ const SUMMARY = {
 ---
 
 <h1>
-  <img src="https://img.icons8.com/material/24/ffffff/person-male.png" width="20" /> 
+  <img src="https://img.icons8.com/material/24/ffffff/person-male.png" width="28" /> 
   About me:
 </h1>
 
