@@ -1,8 +1,6 @@
 <h1>
   Hi, all!
-  <svg width="28" viewBox="0 0 512 512" fill="white" style="vertical-align: middle">
-    <path d="M320 32c-17.7 0-32 14.3-32 32v192c0 17.7 14.3 32 32 32s32-14.3 32-32V64c0-17.7-14.3-32-32-32zm-80 32c-17.7 0-32 14.3-32 32v160c0 17.7 14.3 32 32 32s32-14.3 32-32V96c0-17.7-14.3-32-32-32zm-80 64c-17.7 0-32 14.3-32 32v96c0 17.7 14.3 32 32 32s32-14.3 32-32v-96c0-17.7-14.3-32-32-32z"/>
-  </svg>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/hand.png" width="28" />
 </h1>
 
 ``` ts
