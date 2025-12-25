@@ -1,4 +1,9 @@
-# Hi, all! 👋
+# Hi, all! 
+<img
+  src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/svgs/solid/hand.svg"
+  width="28"
+  style="filter: invert(1);"
+/>
 
 ``` ts
 const SUMMARY = {
