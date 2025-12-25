@@ -1,9 +1,9 @@
-# <p align="left"> Hi, all! <img
-  src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.5.1/svgs/solid/hand.svg"
-  width="28"
-  style="filter: invert(1);"
-/> </p>
-
+<h1>
+  Hi, all!
+  <svg width="28" viewBox="0 0 512 512" fill="white" style="vertical-align: middle">
+    <path d="M320 32c-17.7 0-32 14.3-32 32v192c0 17.7 14.3 32 32 32s32-14.3 32-32V64c0-17.7-14.3-32-32-32zm-80 32c-17.7 0-32 14.3-32 32v160c0 17.7 14.3 32 32 32s32-14.3 32-32V96c0-17.7-14.3-32-32-32zm-80 64c-17.7 0-32 14.3-32 32v96c0 17.7 14.3 32 32 32s32-14.3 32-32v-96c0-17.7-14.3-32-32-32z"/>
+  </svg>
+</h1>
 
 ``` ts
 const SUMMARY = {
