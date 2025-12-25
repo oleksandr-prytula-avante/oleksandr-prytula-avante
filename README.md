@@ -33,7 +33,10 @@ const SUMMARY = {
 
 ---
 
-## 🧑‍💻 About me:
+<h1>
+  <img src="https://img.icons8.com/material/24/ffffff/person-male.png" width="20" /> 
+  About me:
+</h1>
 
 I'm a Software Engineer with over 9 years of hands-on experience in WEB
 development across next domains: **e-Learning, e-Commerce /
