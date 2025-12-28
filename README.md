@@ -135,11 +135,11 @@ productivity, reduce manual effort, and improve application scalability.
 
 ## Education:
 
-📙 **State University of Economics and Technology**  
+- [x] **State University of Economics and Technology**  
 &nbsp;&nbsp;&nbsp;&nbsp; Master's Degree — Computer Software Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">2022 — 2024</span>
 
-📙 **Kryvyi Rih National University**  
+- [x] **Kryvyi Rih National University**  
 &nbsp;&nbsp;&nbsp;&nbsp; Bachelor's Degree — Computer Software Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">2012 — 2016</span>
 
