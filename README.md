@@ -136,17 +136,10 @@ productivity, reduce manual effort, and improve application scalability.
 </div>
 
 ------------------------------------------------------------------------
-<table>
-  <tr>
-    <td valign="middle">
-      <img src="./images/mortarboard.png" width="28" /> 
-      <h2>Vertically Aligned Header</h2>
-    </td>
-    <td valign="middle">
-      Education:
-    </td>
-  </tr>
-</table>
+<h2>
+  <img src="icon.svg" width="28" style="vertical-align: middle;" src="./images/mortarboard.png" />
+  <span style="vertical-align: middle;">Education:</span>
+</h2>
 
 <div align="left">
 
@@ -165,6 +158,7 @@ productivity, reduce manual effort, and improve application scalability.
    <img src="./images/link.png" width="28" /> 
    Connect with me:
 </h2>
+
 
 <p align="left">
 
