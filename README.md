@@ -135,7 +135,7 @@ productivity, reduce manual effort, and improve application scalability.
 
 ## Education:
 
-📙 ** State University of Economics and Technology**  
+📙 **State University of Economics and Technology**  
 &nbsp;&nbsp;&nbsp;&nbsp; Master's Degree — Computer Software Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">2022 — 2024</span>
 
