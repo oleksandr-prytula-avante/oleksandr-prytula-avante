@@ -91,7 +91,6 @@ productivity, reduce manual effort, and improve application scalability.
   <img src="https://img.shields.io/badge/Node.js-000?logo=nodedotjs&logoColor=339933&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=00ADD8&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GraphQL-000?logo=graphql&logoColor=E10098&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Microservices-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1&style=for-the-badge" />
