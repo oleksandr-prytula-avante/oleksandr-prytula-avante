@@ -21,7 +21,7 @@ const SUMMARY = {
   ],
   stack: {
     BE: ["Node.js", "Go", "Python", "GraphQL", "RabbitMQ", "Nginx", "MySQL", "MongoDB"],
-    FE: ["TypeScript", "React", "Vue", "Angular", "Flutter"],
+    FE: ["TypeScript", "RxJS", "React", "Vue", "Angular", "Flutter"],
     DevOps: ["Docker", "CI/CD", "GitHub Actions", "AWS", "Heroku"],
     Testing: ["Playwright", "Jest"],
   },
