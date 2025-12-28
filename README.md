@@ -136,10 +136,17 @@ productivity, reduce manual effort, and improve application scalability.
 </div>
 
 ------------------------------------------------------------------------
-<h2 style="vertical-align: middle;">
-   <img src="./images/mortarboard.png" width="28" /> 
-   Education:
-</h2>
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="./images/mortarboard.png" width="28" /> 
+      <h2>Vertically Aligned Header</h2>
+    </td>
+    <td valign="middle">
+      Education:
+    </td>
+  </tr>
+</table>
 
 <div align="left">
 
