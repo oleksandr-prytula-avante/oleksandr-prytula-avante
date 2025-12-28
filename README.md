@@ -1,6 +1,6 @@
 <h1>
   Hi, all!
-  <img src="./images/hand.png" width="28" />
+  <img src="./images/hand.png" width="32"/>
 </h1>
 
 ``` ts
@@ -158,15 +158,15 @@ productivity, reduce manual effort, and improve application scalability.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
-  <img src="./images/linkedin.png" width="36" height="36"/>
+  <img src="./images/linkedin.png" width="32"/>
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
-  <img src="./images/leetcode.png" width="36" height="36"/>
+  <img src="./images/leetcode.png" width="32"/>
 </a>
 
 <a href="mailto:oleksandr.prytula.dev@gmail.com">
-  <img src="./images/gmail.png" width="36" height="36"/>
+  <img src="./images/gmail.png" width="32"/>
 </a>
 
 </p>
