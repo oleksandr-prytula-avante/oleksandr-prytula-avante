@@ -98,11 +98,11 @@ productivity, reduce manual effort, and improve application scalability.
   <img src="https://img.shields.io/badge/MongoDB-001e2b?logo=mongodb&logoColor=47A248&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nginx-000?logo=nginx&logoColor=009639&style=for-the-badge" />
   <img src="https://img.shields.io/badge/RabbitMQ-000?logo=rabbitmq&logoColor=FF6600&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RxJS-000?logo=reactivex&logoColor=B7178C&style=for-the-badge" />
 </p>
 
 - **Frontend**&nbsp;<p align="left">
   <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RxJS-000?logo=reactivex&logoColor=B7178C&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vue.js-000?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Angular-000?logo=angular&logoColor=DD0031&style=for-the-badge" />
