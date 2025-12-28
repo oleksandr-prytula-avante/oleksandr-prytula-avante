@@ -1,6 +1,6 @@
 <h1>
   Hi, all!
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/hand.png" width="28" />
+  <img src="./images/hand.png" width="32"/>
 </h1>
 
 ``` ts
@@ -38,7 +38,7 @@ const SUMMARY = {
   About me:
 </h1>
 
-I'm a Software Engineer with over 9 years of hands-on experience in WEB
+I'm a Software Engineer with over ten years of hands-on experience in WEB
 development across next domains: **e-Learning, e-Commerce /
 Marketplaces, Trading, Insurance and Health Care**. I've contributed to
 projects in various delivery models - from outstaffing to startups -
@@ -158,15 +158,15 @@ productivity, reduce manual effort, and improve application scalability.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
-  <img src="./linkedin.svg" width="36" height="36"/>
+  <img src="./images/linkedin.png" width="32"/>
 </a>
 
 <a href="https://leetcode.com/u/oleksandr-prytula-avante">
-  <img src="./leetcode.svg" width="36" height="36"/>
+  <img src="./images/leetcode.png" width="32"/>
 </a>
 
 <a href="mailto:oleksandr.prytula.dev@gmail.com">
-  <img src="./gmail.svg" width="36" height="36"/>
+  <img src="./images/gmail.png" width="28"/>
 </a>
 
 </p>
