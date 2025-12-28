@@ -38,7 +38,7 @@ const SUMMARY = {
   About me:
 </h1>
 
-I'm a Software Engineer with over 9 years of hands-on experience in WEB
+I'm a Software Engineer with over ten years of hands-on experience in WEB
 development across next domains: **e-Learning, e-Commerce /
 Marketplaces, Trading, Insurance and Health Care**. I've contributed to
 projects in various delivery models - from outstaffing to startups -
