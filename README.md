@@ -135,7 +135,16 @@ productivity, reduce manual effort, and improve application scalability.
 
 ## Education:
 
-<div align="left">
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="./images/graduate-hat.png">
+    </td>
+    <td valign="middle">
+      State University of Economics and Technology
+    </td>
+  </tr>
+</table>
 
 <img src="./images/graduate-hat.png" width="32"/>
 State University of Economics and Technology**  
@@ -146,7 +155,6 @@ State University of Economics and Technology**
 &nbsp;&nbsp;&nbsp;&nbsp; Bachelor's Degree — Computer Software Engineering  
 &nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">2012 — 2016</span>
 
-</div>
 
 ------------------------------------------------------------------------
 
