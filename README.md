@@ -137,7 +137,7 @@ productivity, reduce manual effort, and improve application scalability.
 
 ------------------------------------------------------------------------
 <h2>
-   <img src="./images/mortarboard" width="28" /> 
+   <img src="./images/mortarboard.png" width="28" /> 
    Education:
 </h2>
 
