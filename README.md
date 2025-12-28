@@ -11,7 +11,7 @@ const SUMMARY = {
   company: "Omnora (fka SlidePresenter)",
   education: [
     "Master's degree — Software Engineering (State University of Economics and Technology, 2022–2024)",
-    "Bachelor's degree — Software Software Engineering (Kryvyi Rih National University, 2012–2016)",
+    "Bachelor's degree — Software Engineering (Kryvyi Rih National University, 2012–2016)",
   ],
   experiences: [
     "Web Developer · Omnora (SlidePresenter) · 2020–Present",
