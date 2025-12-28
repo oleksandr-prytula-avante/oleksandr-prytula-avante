@@ -33,10 +33,10 @@ const SUMMARY = {
 
 ---
 
-<h1>
+<h2>
   <img src="https://img.icons8.com/material/24/ffffff/person-male.png" width="28" /> 
   About me:
-</h1>
+</h2>
 
 I'm a Software Engineer with over ten years of hands-on experience in WEB
 development across next domains: **e-Learning, e-Commerce /
@@ -153,7 +153,11 @@ productivity, reduce manual effort, and improve application scalability.
 
 ------------------------------------------------------------------------
 
-## 🤝 Connect with me:
+<h2>
+   <img src="./images/link.png" width="28" /> 
+   Connect with me::
+</h2>
+
 
 <p align="left">
 
