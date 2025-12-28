@@ -99,11 +99,11 @@ productivity, reduce manual effort, and improve application scalability.
 </p>
 
 - **Frontend**&nbsp;<p align="left">
+  <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vue.js-000?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Angular-000?logo=angular&logoColor=DD0031&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Flutter-000?logo=flutter&logoColor=02569B&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
 </p>
 
 - **DevOps**&nbsp;<p align="left">
