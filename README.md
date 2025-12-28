@@ -135,7 +135,7 @@ productivity, reduce manual effort, and improve application scalability.
 
 ## Education:
 
-<table border="0">
+<table style="border:none;" >
   <tr>
     <td valign="middle">
       <img src="./images/graduate-hat.png" width="32">
