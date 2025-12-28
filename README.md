@@ -87,7 +87,7 @@ productivity, reduce manual effort, and improve application scalability.
 
 ## Tech stack:
 
-- **Backend
+- **Backend**  
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-000?logo=nodedotjs&logoColor=339933&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=00ADD8&style=for-the-badge" />
@@ -99,7 +99,7 @@ productivity, reduce manual effort, and improve application scalability.
   <img src="https://img.shields.io/badge/MongoDB-001e2b?logo=mongodb&logoColor=47A248&style=for-the-badge" />
 </p>
 
-- **Frontend
+- **Frontend**  
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vue.js-000?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge" />
@@ -108,14 +108,14 @@ productivity, reduce manual effort, and improve application scalability.
   <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
 </p>
 
-- **DevOps
+- **DevOps**  
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CI%2FCD-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions&logoColor=2088FF&style=for-the-badge" />
 </p>
 
-- **Testing
+- **Testing**  
 <p align="left">
   <img src="https://img.shields.io/badge/Playwright-000?logo=playwright&logoColor=45ba4b&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jest-000?logo=jest&logoColor=C21325&style=for-the-badge" />
