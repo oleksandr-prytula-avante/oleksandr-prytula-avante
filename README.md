@@ -22,7 +22,7 @@ const SUMMARY = {
   stack: {
     BE: ["Node.js", "Go", "Python", "GraphQL", "RabbitMQ", "Nginx", "MySQL", "MongoDB"],
     FE: ["TypeScript", "RxJS", "React", "Vue", "Angular", "Flutter"],
-    DevOps: ["Docker", "CI/CD", "GitHub Actions", "AWS", "Heroku"],
+    DevOps: ["Docker", "GitHub Actions", "AWS", "Heroku"],
     Testing: ["Playwright", "Jest"],
   },
 };
@@ -110,7 +110,6 @@ productivity, reduce manual effort, and improve application scalability.
 
 - **DevOps**&nbsp;<p align="left">
   <img src="https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions&logoColor=2088FF&style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS-000?logo=amazonaws&logoColor=FF9900&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Heroku-000?logo=heroku&logoColor=430098&style=for-the-badge" />
