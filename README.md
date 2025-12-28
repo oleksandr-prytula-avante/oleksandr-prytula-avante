@@ -32,11 +32,7 @@ const SUMMARY = {
 <p align="center"><strong>Or let’s get to know each other better…</strong></p>
 
 ---
-
-<h2>
-  <img src="https://img.icons8.com/material/24/ffffff/person-male.png" width="28" /> 
-  About me:
-</h2>
+## About me:
 
 I'm a Software Engineer with over ten years of hands-on experience in WEB
 development across next domains: **e-Learning, e-Commerce /
@@ -89,7 +85,7 @@ productivity, reduce manual effort, and improve application scalability.
 
 ------------------------------------------------------------------------
 
-## 🧰 Tech stack:
+## Tech stack:
 
 ### **Core stack**
 
@@ -117,7 +113,7 @@ productivity, reduce manual effort, and improve application scalability.
 
 ------------------------------------------------------------------------
 
-## 💼 Professional Journey:
+## Professional Journey:
 
 <div align="left">
 
@@ -136,10 +132,8 @@ productivity, reduce manual effort, and improve application scalability.
 </div>
 
 ------------------------------------------------------------------------
-<h2>
-  <img width="28" style="vertical-align: middle;" src="./images/mortarboard.png" />
-  <span style="vertical-align: middle;">Education:</span>
-</h2>
+
+## Education:
 
 <div align="left">
 
@@ -154,11 +148,8 @@ productivity, reduce manual effort, and improve application scalability.
 </div>
 
 ------------------------------------------------------------------------
-<h2>
-   <img src="./images/link.png" width="28" /> 
-   Connect with me:
-</h2>
 
+##  Connect with me:
 
 <p align="left">
 
