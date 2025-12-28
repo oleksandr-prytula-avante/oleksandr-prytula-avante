@@ -166,7 +166,7 @@ productivity, reduce manual effort, and improve application scalability.
 </a>
 
 <a href="mailto:oleksandr.prytula.dev@gmail.com">
-  <img src="./images/gmail.png" width="32"/>
+  <img src="./images/gmail.png" width="28"/>
 </a>
 
 </p>
