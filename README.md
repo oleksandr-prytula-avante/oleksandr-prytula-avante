@@ -135,10 +135,10 @@ productivity, reduce manual effort, and improve application scalability.
 
 ## Education:
 
-<table>
+<table border="0">
   <tr>
     <td valign="middle">
-      <img src="./images/graduate-hat.png">
+      <img src="./images/graduate-hat.png" width="32">
     </td>
     <td valign="middle">
       State University of Economics and Technology
