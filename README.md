@@ -87,6 +87,16 @@ productivity, reduce manual effort, and improve application scalability.
 
 ## Tech stack:
 
+<img src="https://img.shields.io/badge/Node.js-000?logo=nodedotjs&logoColor=339933&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=00ADD8&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB&style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GraphQL-000?logo=graphql&logoColor=E10098&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microservices-000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-001e2b?logo=mongodb&logoColor=47A248&style=for-the-badge" />
+
+
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" /></a>
   <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-000?logo=nodedotjs&logoColor=339933&style=for-the-badge" /></a>
   <a href="https://go.dev/"><img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=00ADD8&style=for-the-badge" /></a>
