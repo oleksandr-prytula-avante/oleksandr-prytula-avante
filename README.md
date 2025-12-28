@@ -20,7 +20,7 @@ const SUMMARY = {
     "Web Developer · LANARS · 2016–2017",
   ],
   stack: {
-    BE: ["Node.js", "Go", "Python", "GraphQL", "RabbitMQ", "Nginx", "MySQL", "MongoDB"],
+    BE: ["Node.js", "Go", "Python", "Microservices", "GraphQL", "RabbitMQ", "Nginx", "MySQL", "MongoDB"],
     FE: ["TypeScript", "RxJS", "React", "Vue", "Angular", "Flutter"],
     DevOps: ["Docker", "GitHub Actions", "AWS", "Heroku"],
     Testing: ["Playwright", "Jest"],
