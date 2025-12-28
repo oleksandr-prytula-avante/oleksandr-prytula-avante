@@ -118,16 +118,16 @@ productivity, reduce manual effort, and improve application scalability.
 <div align="left">
 
 - **Web Developer — Omnora (Product / Startup)**  
-&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">Apr 2020 — Present</span>  
+Apr 2020 — Present 
 
 - **Web Developer / Technical Team Lead — DigitalSuits**  
-&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">Apr 2019 — Mar 2020</span>  
+Apr 2019 — Mar 2020
 
 - **WEB & Mobile Developer — Code & Care**  
-&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">Oct 2017 — Mar 2019</span>  
+Oct 2017 — Mar 2019
 
 - **WEB Developer — LANARS**  
-&nbsp;&nbsp;&nbsp;&nbsp; <span style="color:#aaa">Oct 2016 — Sep 2017</span>
+Oct 2016 — Sep 2017
 
 </div>
 
