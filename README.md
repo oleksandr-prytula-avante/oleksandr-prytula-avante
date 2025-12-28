@@ -136,8 +136,10 @@ productivity, reduce manual effort, and improve application scalability.
 </div>
 
 ------------------------------------------------------------------------
-
-## 🎓 Education:
+<h2>
+   <img src="./images/mortarboard" width="28" /> 
+   Education:
+</h2>
 
 <div align="left">
 
@@ -152,12 +154,10 @@ productivity, reduce manual effort, and improve application scalability.
 </div>
 
 ------------------------------------------------------------------------
-
 <h2>
    <img src="./images/link.png" width="28" /> 
-   Connect with me::
+   Connect with me:
 </h2>
-
 
 <p align="left">
 
