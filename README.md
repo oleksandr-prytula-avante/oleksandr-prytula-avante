@@ -150,19 +150,21 @@ productivity, reduce manual effort, and improve application scalability.
 ------------------------------------------------------------------------
 
 ##  Connect with me:
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
-  <img src="./images/linkedin.png" width="32"/>
-</a>
-
-<a href="https://leetcode.com/u/oleksandr-prytula-avante">
-  <img src="./images/leetcode.png" width="32"/>
-</a>
-
-<a href="mailto:oleksandr.prytula.dev@gmail.com">
-  <img src="./images/gmail.png" width="28"/>
-</a>
-
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/oleksandr-prytula-avante">
+        <img src="./images/linkedin.png" width="32"/>
+      </a>
+    </td>
+    <td>
+    <a href="https://leetcode.com/u/oleksandr-prytula-avante">
+      <img src="./images/leetcode.png" width="32"/>
+    </a>
+  </td>
+  <td>
+    <a href="mailto:oleksandr.prytula.dev@gmail.com">
+      <img src="./images/gmail.png" width="28"/>
+    </a>
+  </td>
+  </tr>
