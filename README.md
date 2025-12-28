@@ -115,8 +115,6 @@ productivity, reduce manual effort, and improve application scalability.
 
 ## Professional Journey:
 
-<div align="left">
-
 - **Web Developer — Omnora (Product / Startup)**  
 Apr 2020 — Present 
 
@@ -128,8 +126,6 @@ Oct 2017 — Mar 2019
 
 - **WEB Developer — LANARS**  
 Oct 2016 — Sep 2017
-
-</div>
 
 ------------------------------------------------------------------------
 
@@ -164,3 +160,4 @@ Bachelor's Degree — Computer Software Engineering
     </a>
   </td>
   </tr>
+</table>
