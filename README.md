@@ -20,9 +20,9 @@ const SUMMARY = {
     "Web Developer · LANARS · 2016–2017",
   ],
   stack: {
-    BE: ["Node.js", "Go", "Python", "REST", "GraphQL", "Microservices", "MySQL", "MongoDB"],
-    FE: ["React", "Vue", "Angular", "Flutter", "TypeScript"],
-    DevOps: ["Docker", "CI/CD", "GitHub Actions"],
+    BE: ["Node.js", "Go", "Python", "GraphQL", "RabbitMQ", "Nginx", "MySQL", "MongoDB"],
+    FE: ["TypeScript", "React", "Vue", "Angular", "Flutter"],
+    DevOps: ["Docker", "CI/CD", "GitHub Actions", "AWS", "Heroku"],
     Testing: ["Playwright", "Jest"],
   },
 };
@@ -96,6 +96,9 @@ productivity, reduce manual effort, and improve application scalability.
   <img src="https://img.shields.io/badge/Microservices-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MySQL-000?logo=mysql&logoColor=4479A1&style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-001e2b?logo=mongodb&logoColor=47A248&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nginx-000?logo=nginx&logoColor=009639&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RabbitMQ-000?logo=rabbitmq&logoColor=FF6600&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RxJS-000?logo=reactivex&logoColor=B7178C&style=for-the-badge" />
 </p>
 
 - **Frontend**&nbsp;<p align="left">
@@ -110,6 +113,8 @@ productivity, reduce manual effort, and improve application scalability.
   <img src="https://img.shields.io/badge/Docker-000?logo=docker&logoColor=2496ED&style=for-the-badge" />
   <img src="https://img.shields.io/badge/CI%2FCD-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub_Actions-000?logo=githubactions&logoColor=2088FF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-000?logo=amazonaws&logoColor=FF9900&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Heroku-000?logo=heroku&logoColor=430098&style=for-the-badge" />
 </p>
 
 - **Testing**&nbsp;<p align="left">
