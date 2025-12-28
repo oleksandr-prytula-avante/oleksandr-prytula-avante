@@ -136,8 +136,8 @@ productivity, reduce manual effort, and improve application scalability.
 </div>
 
 ------------------------------------------------------------------------
-<h2>
-   <img src="./images/mortarboard.png" width="28" style="vertical-align: middle;" /> 
+<h2 style="vertical-align: middle;">
+   <img src="./images/mortarboard.png" width="28" /> 
    Education:
 </h2>
 
@@ -155,7 +155,7 @@ productivity, reduce manual effort, and improve application scalability.
 
 ------------------------------------------------------------------------
 <h2>
-   <img src="./images/link.png" width="28" style="vertical-align: middle;" /> 
+   <img src="./images/link.png" width="28" /> 
    Connect with me:
 </h2>
 
