@@ -117,7 +117,7 @@ productivity, reduce manual effort, and improve application scalability.
 </p>
 
 - **Testing**&nbsp;<p align="left">
-  <img src="https://img.shields.io/badge/Playwright-000?logo=playwright&logoColor=45ba4b&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Playwright-000?logo=playwright&logoColor=45BA4B&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Jest-000?logo=jest&logoColor=C21325&style=for-the-badge" />
 </p>
 
