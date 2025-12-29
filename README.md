@@ -104,7 +104,7 @@ productivity, reduce manual effort, and improve application scalability.
   <img src="https://img.shields.io/badge/RxJS-000?logo=reactivex&logoColor=B7178C&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Vue.js-000?logo=vuedotjs&logoColor=4FC08D&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-000?logo=redis&logoColor=DC382D&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Angular-000?logo=angular&logoColor=DD0031&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Flutter-000?logo=flutter&logoColor=02569B&style=for-the-badge" />
 </p>
