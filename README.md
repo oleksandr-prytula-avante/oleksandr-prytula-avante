@@ -82,8 +82,7 @@ code generation, intelligent testing frameworks, and performance
 optimization utilities - into my development workflows to boost
 productivity, reduce manual effort, and improve application scalability.
 
-------------------------------------------------------------------------
-
+---
 ## Tech stack:
 
 - **Backend**&nbsp;<p align="left">
@@ -120,8 +119,7 @@ productivity, reduce manual effort, and improve application scalability.
   <img src="https://img.shields.io/badge/Jest-000?logo=jest&logoColor=C21325&style=for-the-badge" />
 </p>
 
-------------------------------------------------------------------------
-
+---
 ## Professional Journey:
 
 - **Web Developer — Omnora (Product / Startup)**  
@@ -136,8 +134,7 @@ Oct 2017 — Mar 2019
 - **WEB Developer — LANARS**  
 Oct 2016 — Sep 2017
 
-------------------------------------------------------------------------
-
+---
 ## Education:
 
 - **State University of Economics and Technology**  
@@ -148,9 +145,9 @@ Master's Degree — Computer Software Engineering
 Bachelor's Degree — Computer Software Engineering  
 2012 — 2016
 
-------------------------------------------------------------------------
-
+---
 ##  Connect with me:
+
 <table>
   <tr>
     <td>
