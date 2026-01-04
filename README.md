@@ -85,7 +85,7 @@ productivity, reduce manual effort, and improve application scalability.
 ---
 ## Tech stack:
 
-- **Backend**&nbsp;<p align="left">
+- **BackEnd**&nbsp;<p align="left">
   <img src="https://img.shields.io/badge/Node.js-000?logo=nodedotjs&logoColor=339933&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Go-000?logo=go&logoColor=00ADD8&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-000?logo=python&logoColor=3776AB&style=for-the-badge" />
@@ -98,7 +98,7 @@ productivity, reduce manual effort, and improve application scalability.
   <img src="https://img.shields.io/badge/RabbitMQ-000?logo=rabbitmq&logoColor=FF6600&style=for-the-badge" />
 </p>
 
-- **Frontend**&nbsp;<p align="left">
+- **FrontEnd**&nbsp;<p align="left">
   <img src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6&style=for-the-badge" />
   <img src="https://img.shields.io/badge/RxJS-000?logo=reactivex&logoColor=B7178C&style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-000?logo=react&logoColor=61DAFB&style=for-the-badge" />
