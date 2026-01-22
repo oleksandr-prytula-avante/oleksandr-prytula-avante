@@ -147,7 +147,6 @@ Bachelor's Degree — Computer Software Engineering
 
 ---
 ##  Connect with me:
-
 <table>
   <tr>
     <td>
