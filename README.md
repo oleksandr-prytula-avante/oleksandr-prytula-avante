@@ -19,9 +19,9 @@ const SUMMARY = {
     "Web Developer | Outsource / Dedicated Team — LANARS (2016–2017)",
   ],
   stack: {
-    BE: ["Node.js", "Go", "Python", "GraphQL", "RabbitMQ", "Redis", "Nginx", "MySQL", "MongoDB"],
+    BE: ["Node.js", "Go", "Python", "GraphQL", "RabbitMQ", "Redis", "MySQL", "MongoDB"],
     FE: ["TypeScript", "RxJS", "React", "Vue", "Angular"],
-    DevOps: ["Docker", "AWS", "Heroku", "Kubernets"],
+    DevOps: ["Docker", "AWS", "Heroku", "Kubernets", "Nginx"],
     Testing: ["Playwright", "Jest"],
   },
 };
