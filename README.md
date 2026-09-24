@@ -13,10 +13,10 @@ const SUMMARY = {
     "Bachelor's degree — Software Engineering (Kryvyi Rih National University, 2012–2016)",
   ],
   experiences: [
-    "Web Developer · Omnora (SlidePresenter) · 2020–Present",
-    "Web Developer / Technical Team Lead · DigitalSuits · 2019–2020",
-    "Web & Mobile Developer · Code & Care · 2017–2019",
-    "Web Developer · LANARS · 2016–2017",
+    "Web Developer | Startup / Product — Omnora (2020–Present)",
+    "Web Developer / Technical Team Lead | Outsource / Dedicated Team — DigitalSuits (2019–2020)",
+    "Web & Mobile Developer | Outstaff — Code & Care (2017–2019)",
+    "Web Developer | Outsource / Dedicated Team — LANARS (2016–2017)",
   ],
   stack: {
     BE: ["Node.js", "Go", "Python", "GraphQL", "RabbitMQ", "Redis", "Nginx", "MySQL", "MongoDB"],
@@ -43,16 +43,16 @@ I hold a master’s degree in Software Engineering, which provided a solid found
 ---
 ## Professional Journey:
 
-- **Web Developer — Omnora (Product / Startup)**  
+- **Web Developer | Startup / Product — Omnora**  
 Apr 2020 — Present 
 
-- **Web Developer / Technical Team Lead — DigitalSuits**  
+- **Web Developer / Technical Team Lead | Outsource / Dedicated Team — DigitalSuits**  
 Apr 2019 — Mar 2020
 
-- **WEB & Mobile Developer — Code & Care**  
+- **WEB & Mobile Developer | Outstaff — Code & Care**  
 Oct 2017 — Mar 2019
 
-- **WEB Developer — LANARS**  
+- **WEB Developer | Outsource / Dedicated team — LANARS**  
 Oct 2016 — Sep 2017
 
 ---
