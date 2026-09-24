@@ -8,7 +8,6 @@ const SUMMARY = {
   name: "Oleksandr (Alex) Prytula",
   location: "Ukraine",
   job: "WEB Developer / Software Engineer",
-  company: "Omnora (fka SlidePresenter)",
   education: [
     "Master's degree — Software Engineering (State University of Economics and Technology, 2022–2024)",
     "Bachelor's degree — Software Engineering (Kryvyi Rih National University, 2012–2016)",
@@ -20,9 +19,9 @@ const SUMMARY = {
     "Web Developer · LANARS · 2016–2017",
   ],
   stack: {
-    BE: ["Node.js", "Go", "Python", "Microservices", "GraphQL", "RabbitMQ", "Redis", "Nginx", "MySQL", "MongoDB"],
-    FE: ["TypeScript", "RxJS", "React", "Vue", "Angular", "Flutter"],
-    DevOps: ["Docker", "GitHub Actions", "AWS", "Heroku"],
+    BE: ["Node.js", "Go", "Python", "GraphQL", "RabbitMQ", "Redis", "Nginx", "MySQL", "MongoDB"],
+    FE: ["TypeScript", "RxJS", "React", "Vue", "Angular"],
+    DevOps: ["Docker", "AWS", "Heroku", "Kubernets"],
     Testing: ["Playwright", "Jest"],
   },
 };
