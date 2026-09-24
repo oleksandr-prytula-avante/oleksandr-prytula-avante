@@ -6,7 +6,7 @@
 ``` ts
 const SUMMARY = {
   name: "Oleksandr (Alex) Prytula",
-  location: "Ukraine",
+  location: "Ukraine / Remote",
   job: "WEB Developer / Software Engineer",
   education: [
     "Master's degree — Software Engineering (State University of Economics and Technology, 2022–2024)",
