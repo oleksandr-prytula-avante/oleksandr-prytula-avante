@@ -13,7 +13,7 @@ const SUMMARY = {
     "Bachelor's degree — Software Engineering (Kryvyi Rih National University, 2012–2016)",
   ],
   experiences: [
-    "Web Developer | Startup / Product — Omnora (2020–Present)",
+    "Web Developer | Startup / Product — Omnora (2020–2026)",
     "Web Developer / Technical Team Lead | Outsource / Dedicated Team — DigitalSuits (2019–2020)",
     "Web & Mobile Developer | Outstaff — Code & Care (2017–2019)",
     "Web Developer | Outsource / Dedicated Team — LANARS (2016–2017)",
