@@ -44,7 +44,7 @@ I hold a master’s degree in Software Engineering, which provided a solid found
 ## Professional Journey:
 
 - **Web Developer | Startup / Product — Omnora**  
-Apr 2020 — Present 
+Apr 2020 — Oct 2026 
 
 - **Web Developer / Technical Team Lead | Outsource / Dedicated Team — DigitalSuits**  
 Apr 2019 — Mar 2020
