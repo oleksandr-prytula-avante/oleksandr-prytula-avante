@@ -7,7 +7,7 @@
 const SUMMARY = {
   name: "Oleksandr (Alex) Prytula",
   location: "Ukraine / Remote",
-  job: "WEB Developer / Software Engineer",
+  job: "Full-Stack Software Engineer",
   education: [
     "Master's degree — Software Engineering (State University of Economics and Technology, 2022–2024)",
     "Bachelor's degree — Software Engineering (Kryvyi Rih National University, 2012–2016)",
