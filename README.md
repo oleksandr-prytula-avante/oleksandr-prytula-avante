@@ -5,6 +5,7 @@
 
 ``` ts
 
+
 const SUMMARY = {
   name: "Oleksandr (Alex) Prytula",
   location: "Ukraine / Remote",
@@ -17,37 +18,40 @@ const SUMMARY = {
   ],
 
   experiences: [
-    "Full-Stack Software Engineer | Startup / Product — Omnora (2020–2026)",
+    "Web Developer | Startup / Product — Omnora (2020–2026)",
     "Web Developer / Technical Team Lead | Outsource / Dedicated Team — DigitalSuits (2019–2020)",
     "Web & Mobile Developer | Outstaff — Code & Care (2017–2019)",
     "Web Developer | Outsource / Dedicated Team — LANARS (2016–2017)",
   ],
 
   stack: {
-    BE: [
-      "Node.js", "Go", "Python",
-      "Express.js", "NestJS", "Django", "FastAPI", "Flask", "Gin",
-      "REST", "GraphQL", "gRPC", "WebSockets", "WebRTC",
-      "PostgreSQL", "MySQL", "MongoDB", "SQLite", "Redis",
-      "Apache Kafka", "RabbitMQ",
-    ],
-    FE: [
-      "JavaScript", "TypeScript",
-      "React", "Angular", "Next.js",
-      "Redux", "Redux Saga", "MobX", "RxJS",
-      "HTML", "CSS", "Tailwind CSS", "Material UI",
-      "Canvas API", "Konva",
-    ],
-    Architecture: [
-      "Microservices", "REST APIs", "Event-Driven Architecture",
-    ],
-    DevOps: [
-      "Docker", "Docker Compose", "Kubernetes",
-      "AWS", "ECS", "S3", "Lambda",
-      "Heroku", "Nginx", "CI/CD",
-    ],
+    Languages: ["JavaScript", "TypeScript", "Python", "Go"],
+
+    Frontend: ["React", "Angular", "Next.js", "Redux", "Redux Saga", "MobX", "RxJS", "HTML", "CSS", "Tailwind CSS", "Material UI", "Bootstrap", "jQuery"],
+
+    Backend: ["Node.js", "Express.js", "NestJS", "Django", "FastAPI", "Flask", "Gin"],
+
+    APIs: ["REST", "GraphQL", "gRPC", "WebSockets", "WebRTC"],
+
+    Databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite", "Redis", "Firebase"],
+
+    Messaging: ["Apache Kafka", "RabbitMQ"],
+
+    Architecture: ["Microservices", "Monolithic Architecture", "Event-Driven Architecture", "System Design"],
+
+    Cloud: ["AWS", "Amazon ECS", "Amazon S3", "AWS Lambda", "Heroku"],
+
+    DevOps: ["Docker", "Docker Compose", "Kubernetes", "Nginx", "CI/CD"],
+
     Testing: ["Playwright", "Jest"],
-    AI: ["Cursor", "Codex", "Claude Code", "Microsoft Copilot"],
+
+    BuildTools: ["npm", "Webpack", "Vite"],
+
+    DevelopmentTools: ["Git", "Swagger", "Figma"],
+
+    GraphicsAndMedia: ["Canvas API", "Konva"],
+
+    AITools: ["Cursor", "Codex", "Claude Code", "Microsoft Copilot"],
   },
 };
 
