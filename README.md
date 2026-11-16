@@ -5,7 +5,6 @@
 
 ``` ts
 
-
 const SUMMARY = {
   name: "Oleksandr (Alex) Prytula",
   location: "Ukraine / Remote",
@@ -26,21 +25,51 @@ const SUMMARY = {
 
   stack: {
     Languages: ["JavaScript", "TypeScript", "Python", "Go"],
-    Frontend: ["React", "Angular", "Next.js", "Redux", "Redux Saga", "MobX", "RxJS", "HTML", "CSS", "Tailwind CSS", "Material UI", "Bootstrap", "jQuery"],
-    Backend: ["Node.js", "Express.js", "NestJS", "Django", "FastAPI", "Flask", "Gin"],
+
+    Frontend: [
+      "React", "Angular", "Next.js", "Redux", "Redux Saga", "MobX",
+      "RxJS", "HTML", "CSS", "Tailwind CSS", "Material UI",
+      "Bootstrap", "jQuery",
+    ],
+
+    Backend: [
+      "Node.js", "Express.js", "NestJS", "Django", "FastAPI",
+      "Flask", "Gin",
+    ],
+
     APIs: ["REST", "GraphQL", "gRPC", "WebSockets", "WebRTC"],
-    Databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite", "Redis", "Firebase"],
+
+    Databases: [
+      "PostgreSQL", "MySQL", "MongoDB", "SQLite", "Redis", "Firebase",
+    ],
+
     Messaging: ["Apache Kafka", "RabbitMQ"],
-    Architecture: ["Microservices", "Monolithic Architecture", "Event-Driven Architecture", "System Design"],
+
+    Architecture: [
+      "Microservices", "Monolithic Architecture",
+      "Event-Driven Architecture", "System Design",
+    ],
+
     Cloud: ["AWS", "Amazon ECS", "Amazon S3", "AWS Lambda", "Heroku"],
-    DevOps: ["Docker", "Docker Compose", "Kubernetes", "Nginx", "CI/CD"],
+
+    DevOps: [
+      "Docker", "Docker Compose", "Kubernetes", "Nginx", "CI/CD",
+    ],
+
     Testing: ["Playwright", "Jest"],
+
     BuildTools: ["npm", "Webpack", "Vite"],
+
     DevelopmentTools: ["Git", "Swagger", "Figma"],
+
     GraphicsAndMedia: ["Canvas API", "Konva"],
-    AITools: ["Cursor", "Codex", "Claude Code", "Microsoft Copilot"],
+
+    AITools: [
+      "Cursor", "Codex", "Claude Code", "Microsoft Copilot",
+    ],
   },
 };
+
 
 ```
 
