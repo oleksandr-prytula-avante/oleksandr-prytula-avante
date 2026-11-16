@@ -4,27 +4,53 @@
 </h1>
 
 ``` ts
+
 const SUMMARY = {
   name: "Oleksandr (Alex) Prytula",
   location: "Ukraine / Remote",
   job: "Full-Stack Software Engineer",
+  experience: "10+ years",
+
   education: [
     "Master's degree — Software Engineering (State University of Economics and Technology, 2022–2024)",
     "Bachelor's degree — Software Engineering (Kryvyi Rih National University, 2012–2016)",
   ],
+
   experiences: [
-    "Web Developer | Startup / Product — Omnora (2020–2026)",
+    "Full-Stack Software Engineer | Startup / Product — Omnora (2020–2026)",
     "Web Developer / Technical Team Lead | Outsource / Dedicated Team — DigitalSuits (2019–2020)",
     "Web & Mobile Developer | Outstaff — Code & Care (2017–2019)",
     "Web Developer | Outsource / Dedicated Team — LANARS (2016–2017)",
   ],
+
   stack: {
-    BE: ["Node.js", "Go", "Python", "GraphQL", "RabbitMQ", "Redis", "MySQL", "MongoDB"],
-    FE: ["TypeScript", "RxJS", "React", "Vue", "Angular"],
-    DevOps: ["Docker", "AWS", "Heroku", "Kubernets", "Nginx"],
+    BE: [
+      "Node.js", "Go", "Python",
+      "Express.js", "NestJS", "Django", "FastAPI", "Flask", "Gin",
+      "REST", "GraphQL", "gRPC", "WebSockets", "WebRTC",
+      "PostgreSQL", "MySQL", "MongoDB", "SQLite", "Redis",
+      "Apache Kafka", "RabbitMQ",
+    ],
+    FE: [
+      "JavaScript", "TypeScript",
+      "React", "Angular", "Next.js",
+      "Redux", "Redux Saga", "MobX", "RxJS",
+      "HTML", "CSS", "Tailwind CSS", "Material UI",
+      "Canvas API", "Konva",
+    ],
+    Architecture: [
+      "Microservices", "REST APIs", "Event-Driven Architecture",
+    ],
+    DevOps: [
+      "Docker", "Docker Compose", "Kubernetes",
+      "AWS", "ECS", "S3", "Lambda",
+      "Heroku", "Nginx", "CI/CD",
+    ],
     Testing: ["Playwright", "Jest"],
+    AI: ["Cursor", "Codex", "Claude Code", "Microsoft Copilot"],
   },
 };
+
 ```
 
 <p align="center"><strong>Or let’s get to know each other better…</strong></p>
